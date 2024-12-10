@@ -98,3 +98,9 @@ python main.py
 - Для работы с GPU требуется CUDA-совместимая видеокарта
 - Модели предварительно обучены на датасетах Emotic и Dusha
 - Система поддерживает многокамерный режим работы
+
+## Citations
+
+[1] Kosti, Ronak, Jose M. Alvarez, Adria Recasens, and Agata Lapedriza. "Context based emotion recognition using emotic dataset." IEEE transactions on pattern analysis and machine intelligence 42, no. 11 (2019): 2755-2766.
+[2] Kosti, Ronak, Jose M. Alvarez, Adria Recasens, and Agata Lapedriza. "Emotion recognition in context." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 1667-1675. 2017.
+[3] Kosti, Ronak, Jose M. Alvarez, Adria Recasens, and Agata Lapedriza. "EMOTIC: Emotions in Context dataset." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp. 61-69. 2017.
